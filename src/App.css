@@ -1,0 +1,26 @@
+:root{
+  --oscurito: #2E3237;
+  --blanquito: #fff;
+  --texto-bg-dark: #f3d75a;
+  --bg-card: rgba(159, 186, 231, 0.3);
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 6s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+ 0% {
+   transform: rotate(-5deg);
+ }
+ 50% {
+  transform: rotate(60deg);
+}
+100% {
+  transform: rotate(-5deg);
+}
+}

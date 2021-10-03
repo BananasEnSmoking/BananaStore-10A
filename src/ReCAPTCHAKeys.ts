@@ -1,0 +1,2 @@
+export var PUBLIC_RECAPTCHA_KEY:string = "6LfTYzkaAAAAADqDBpIyxoFtSyhBegHt49FGGP6x"; 
+export var SECRET_RECAPTCHA_KEY:string = "6LfTYzkaAAAAAMnLAkHvF8Q3ORwZGSekcKK7wwKu"; 
