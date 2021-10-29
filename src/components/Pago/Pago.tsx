@@ -11,7 +11,7 @@ export const Pedidos:React.FC =()=>{
         style: 'currency',
         currency: 'MXN',
         minimumFractionDigits:2
-    });
+    }); 
 
     //Agregar "Key" a cada pedido para evitar warning y preparar table
     const addKeyPedido=(pedidos:any)=>{
